@@ -1,0 +1,28 @@
+﻿  Graph Dikjstra.cpp
+C:\Users\NICOLE\Documents\AED\Graph Dikjstra\Graph Dikjstra.cpp(180,13): warning C4244:  '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\NICOLE\Documents\AED\Graph Dikjstra\Graph Dikjstra.cpp(189,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\NICOLE\Documents\AED\Graph Dikjstra\Graph Dikjstra.cpp(195,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\NICOLE\Documents\AED\Graph Dikjstra\Graph Dikjstra.cpp(206,22): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\NICOLE\Documents\AED\Graph Dikjstra\Graph Dikjstra.cpp(207,27): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\NICOLE\Documents\AED\Graph Dikjstra\Graph Dikjstra.cpp(226,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\NICOLE\Documents\AED\Graph Dikjstra\Graph Dikjstra.cpp(241,22): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\NICOLE\Documents\AED\Graph Dikjstra\Graph Dikjstra.cpp(252,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\NICOLE\Documents\AED\Graph Dikjstra\Graph Dikjstra.cpp(46,2): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\NICOLE\Documents\AED\Graph Dikjstra\Graph Dikjstra.cpp(44): message :  al compilar la función del miembro clase plantilla "void Cam<Graf<char,int>>::imprimir(void)"
+C:\Users\NICOLE\Documents\AED\Graph Dikjstra\Graph Dikjstra.cpp(253): message :  vea la referencia a la creación de instancias de plantilla de función "void Cam<Graf<char,int>>::imprimir(void)" que se está compilando
+C:\Users\NICOLE\Documents\AED\Graph Dikjstra\Graph Dikjstra.cpp(188): message :  vea la referencia a la creación de instancias de clase plantilla "Cam<Graf<char,int>>" que se está compilando
+C:\Users\NICOLE\Documents\AED\Graph Dikjstra\Graph Dikjstra.cpp(153,2): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\NICOLE\Documents\AED\Graph Dikjstra\Graph Dikjstra.cpp(152): message :  al compilar la función del miembro clase plantilla "void Graf<char,int>::imprimir_aristas(void)"
+C:\Users\NICOLE\Documents\AED\Graph Dikjstra\Graph Dikjstra.cpp(275): message :  vea la referencia a la creación de instancias de plantilla de función "void Graf<char,int>::imprimir_aristas(void)" que se está compilando
+C:\Users\NICOLE\Documents\AED\Graph Dikjstra\Graph Dikjstra.cpp(185): message :  vea la referencia a la creación de instancias de clase plantilla "Graf<char,int>" que se está compilando
+C:\Users\NICOLE\Documents\AED\Graph Dikjstra\Graph Dikjstra.cpp(154,2): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\NICOLE\Documents\AED\Graph Dikjstra\Graph Dikjstra.cpp(144,2): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\NICOLE\Documents\AED\Graph Dikjstra\Graph Dikjstra.cpp(143): message :  al compilar la función del miembro clase plantilla "void Graf<char,int>::imprimir_nodos(void)"
+C:\Users\NICOLE\Documents\AED\Graph Dikjstra\Graph Dikjstra.cpp(270): message :  vea la referencia a la creación de instancias de plantilla de función "void Graf<char,int>::imprimir_nodos(void)" que se está compilando
+C:\Users\NICOLE\Documents\AED\Graph Dikjstra\Graph Dikjstra.cpp(65,2): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\NICOLE\Documents\AED\Graph Dikjstra\Graph Dikjstra.cpp(64): message :  al compilar la función del miembro clase plantilla "bool Graf<char,int>::buscar_nodo(char,int &)"
+C:\Users\NICOLE\Documents\AED\Graph Dikjstra\Graph Dikjstra.cpp(238): message :  vea la referencia a la creación de instancias de plantilla de función "bool Graf<char,int>::buscar_nodo(char,int &)" que se está compilando
+C:\Users\NICOLE\Documents\AED\Graph Dikjstra\Graph Dikjstra.cpp(83,2): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\NICOLE\Documents\AED\Graph Dikjstra\Graph Dikjstra.cpp(82): message :  al compilar la función del miembro clase plantilla "bool Graf<char,int>::search_arista(int,int)"
+C:\Users\NICOLE\Documents\AED\Graph Dikjstra\Graph Dikjstra.cpp(101): message :  vea la referencia a la creación de instancias de plantilla de función "bool Graf<char,int>::search_arista(int,int)" que se está compilando
+  Graph Dikjstra.vcxproj -> C:\Users\NICOLE\Documents\AED\Graph Dikjstra\Debug\Graph Dikjstra.exe
