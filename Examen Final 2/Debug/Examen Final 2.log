@@ -1,0 +1,20 @@
+﻿  Examen Final 2.cpp
+C:\Users\NICOLE\Documents\AED\Examen Final 2\Examen Final 2.cpp(202,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\NICOLE\Documents\AED\Examen Final 2\Examen Final 2.cpp(208,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\NICOLE\Documents\AED\Examen Final 2\Examen Final 2.cpp(219,22): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\NICOLE\Documents\AED\Examen Final 2\Examen Final 2.cpp(220,27): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\NICOLE\Documents\AED\Examen Final 2\Examen Final 2.cpp(239,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\NICOLE\Documents\AED\Examen Final 2\Examen Final 2.cpp(254,22): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\NICOLE\Documents\AED\Examen Final 2\Examen Final 2.cpp(265,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\NICOLE\Documents\AED\Examen Final 2\Examen Final 2.cpp(42,2): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\NICOLE\Documents\AED\Examen Final 2\Examen Final 2.cpp(40): message :  al compilar la función del miembro clase plantilla "void Cam<CGraph<CCoord,int>>::imprimir(void)"
+C:\Users\NICOLE\Documents\AED\Examen Final 2\Examen Final 2.cpp(266): message :  vea la referencia a la creación de instancias de plantilla de función "void Cam<CGraph<CCoord,int>>::imprimir(void)" que se está compilando
+C:\Users\NICOLE\Documents\AED\Examen Final 2\Examen Final 2.cpp(201): message :  vea la referencia a la creación de instancias de clase plantilla "Cam<CGraph<CCoord,int>>" que se está compilando
+C:\Users\NICOLE\Documents\AED\Examen Final 2\Examen Final 2.cpp(60,2): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\NICOLE\Documents\AED\Examen Final 2\Examen Final 2.cpp(59): message :  al compilar la función del miembro clase plantilla "bool CGraph<CCoord,int>::buscar_nodo(CCoord,int &)"
+C:\Users\NICOLE\Documents\AED\Examen Final 2\Examen Final 2.cpp(251): message :  vea la referencia a la creación de instancias de plantilla de función "bool CGraph<CCoord,int>::buscar_nodo(CCoord,int &)" que se está compilando
+C:\Users\NICOLE\Documents\AED\Examen Final 2\Examen Final 2.cpp(192): message :  vea la referencia a la creación de instancias de clase plantilla "CGraph<CCoord,int>" que se está compilando
+C:\Users\NICOLE\Documents\AED\Examen Final 2\Examen Final 2.cpp(80,2): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\NICOLE\Documents\AED\Examen Final 2\Examen Final 2.cpp(79): message :  al compilar la función del miembro clase plantilla "bool CGraph<CCoord,int>::search_arista(int,int)"
+C:\Users\NICOLE\Documents\AED\Examen Final 2\Examen Final 2.cpp(100): message :  vea la referencia a la creación de instancias de plantilla de función "bool CGraph<CCoord,int>::search_arista(int,int)" que se está compilando
+  Examen Final 2.vcxproj -> C:\Users\NICOLE\Documents\AED\Examen Final 2\Debug\Examen Final 2.exe
