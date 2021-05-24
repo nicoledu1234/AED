@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tarea1splitFunctor", "tarea1splitFunctor.vcxproj", "{A48DBBD3-86DE-486C-8876-610F4A15133B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A48DBBD3-86DE-486C-8876-610F4A15133B}.Debug|x64.ActiveCfg = Debug|x64
+		{A48DBBD3-86DE-486C-8876-610F4A15133B}.Debug|x64.Build.0 = Debug|x64
+		{A48DBBD3-86DE-486C-8876-610F4A15133B}.Debug|x86.ActiveCfg = Debug|Win32
+		{A48DBBD3-86DE-486C-8876-610F4A15133B}.Debug|x86.Build.0 = Debug|Win32
+		{A48DBBD3-86DE-486C-8876-610F4A15133B}.Release|x64.ActiveCfg = Release|x64
+		{A48DBBD3-86DE-486C-8876-610F4A15133B}.Release|x64.Build.0 = Release|x64
+		{A48DBBD3-86DE-486C-8876-610F4A15133B}.Release|x86.ActiveCfg = Release|Win32
+		{A48DBBD3-86DE-486C-8876-610F4A15133B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDED705C-EB36-4CE6-9570-E305A8B5C4BD}
+	EndGlobalSection
+EndGlobal
