@@ -1,0 +1,3 @@
+﻿  Graph Coloring.cpp
+C:\Users\NICOLE\Documents\AED\Graph Coloring\Graph Coloring.cpp(15,12): warning C4244:  'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Graph Coloring.vcxproj -> C:\Users\NICOLE\Documents\AED\Graph Coloring\Debug\Graph Coloring.exe

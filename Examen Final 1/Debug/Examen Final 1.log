@@ -1,0 +1,86 @@
+﻿  Examen Final 1.cpp
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(155,6): warning C4101:  'v': variable local sin referencia
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(44,1): error C2440:  '=': no se puede realizar la conversión de 'CSNode<T> **' a 'CSNode<T> *'
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(44,1): error C2440:         with
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(44,1): error C2440:         [
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(44,1): error C2440:             T=int
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(44,1): error C2440:         ]
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(44,14): message :  Los tipos señalados no están relacionados; la conversión requiere reinterpret_cast, conversión de estilo de C o conversión de estilo de función
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(42): message :  al compilar la función del miembro clase plantilla "CSparseMatrix<int,0>::CSparseMatrix(CSparseMatrix<int,0>::UInt,CSparseMatrix<int,0>::UInt)"
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(154): message :  vea la referencia a la creación de instancias de plantilla de función "CSparseMatrix<int,0>::CSparseMatrix(CSparseMatrix<int,0>::UInt,CSparseMatrix<int,0>::UInt)" que se está compilando
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(154): message :  vea la referencia a la creación de instancias de clase plantilla "CSparseMatrix<int,0>" que se está compilando
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(45,1): error C2440:  '=': no se puede realizar la conversión de 'CSNode<T> **' a 'CSNode<T> *'
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(45,1): error C2440:         with
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(45,1): error C2440:         [
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(45,1): error C2440:             T=int
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(45,1): error C2440:         ]
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(45,14): message :  Los tipos señalados no están relacionados; la conversión requiere reinterpret_cast, conversión de estilo de C o conversión de estilo de función
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(46,20): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(46,1): error C2679:  '=' binario: no se encontró un operador que adopte un operando en la parte derecha de tipo 'int' (o bien no existe una conversión aceptable)
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(12,1): message :  puede ser 'CSNode<T> &CSNode<T>::operator =(CSNode<T> &&)'
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(12,1): message :         with
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(12,1): message :         [
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(12,1): message :             T=int
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(12,1): message :         ]
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(12,1): message :  o       'CSNode<T> &CSNode<T>::operator =(const CSNode<T> &)'
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(12,1): message :         with
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(12,1): message :         [
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(12,1): message :             T=int
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(12,1): message :         ]
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(46,1): message :  al hacer coincidir la lista de argumentos '(CSNode<T>, int)'
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(46,1): message :         with
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(46,1): message :         [
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(46,1): message :             T=int
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(46,1): message :         ]
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(47,20): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(47,1): error C2679:  '=' binario: no se encontró un operador que adopte un operando en la parte derecha de tipo 'int' (o bien no existe una conversión aceptable)
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(12,1): message :  puede ser 'CSNode<T> &CSNode<T>::operator =(CSNode<T> &&)'
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(12,1): message :         with
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(12,1): message :         [
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(12,1): message :             T=int
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(12,1): message :         ]
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(12,1): message :  o       'CSNode<T> &CSNode<T>::operator =(const CSNode<T> &)'
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(12,1): message :         with
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(12,1): message :         [
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(12,1): message :             T=int
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(12,1): message :         ]
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(47,1): message :  al hacer coincidir la lista de argumentos '(CSNode<T>, int)'
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(47,1): message :         with
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(47,1): message :         [
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(47,1): message :             T=int
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(47,1): message :         ]
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(99,1): error C2664:  'int CSparseMatrix<int,0>::Find(CSparseMatrix<int,0>::UInt,CSparseMatrix<int,0>::UInt,CSNode<T> *&,CSNode<T> *&)': el argumento 3 no puede convertirse de 'CSNode<T> **' a 'CSNode<T> *&'
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(99,1): error C2664:         with
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(99,1): error C2664:         [
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(99,1): error C2664:             T=int
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(99,1): error C2664:         ]
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(88): message :  al compilar la función del miembro clase plantilla "bool CSparseMatrix<int,0>::Set(CSparseMatrix<int,0>::UInt,CSparseMatrix<int,0>::UInt,T)"
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(88): message :         with
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(88): message :         [
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(88): message :             T=int
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(88): message :         ]
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(157): message :  vea la referencia a la creación de instancias de plantilla de función "bool CSparseMatrix<int,0>::Set(CSparseMatrix<int,0>::UInt,CSparseMatrix<int,0>::UInt,T)" que se está compilando
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(157): message :         with
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(157): message :         [
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(157): message :             T=int
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(157): message :         ]
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(116,1): error C2664:  'int CSparseMatrix<int,0>::Find(CSparseMatrix<int,0>::UInt,CSparseMatrix<int,0>::UInt,CSNode<T> *&,CSNode<T> *&)': el argumento 3 no puede convertirse de 'CSNode<T> **' a 'CSNode<T> *&'
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(116,1): error C2664:         with
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(116,1): error C2664:         [
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(116,1): error C2664:             T=int
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(116,1): error C2664:         ]
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(113): message :  al compilar la función del miembro clase plantilla "int CSparseMatrix<int,0>::Get(CSparseMatrix<int,0>::UInt,CSparseMatrix<int,0>::UInt)"
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(181): message :  vea la referencia a la creación de instancias de plantilla de función "int CSparseMatrix<int,0>::Get(CSparseMatrix<int,0>::UInt,CSparseMatrix<int,0>::UInt)" que se está compilando
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(124,20): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(122): message :  al compilar la función del miembro clase plantilla "void CSparseMatrix<int,0>::Print(void)"
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(175): message :  vea la referencia a la creación de instancias de plantilla de función "void CSparseMatrix<int,0>::Print(void)" que se está compilando
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(127,1): error C2440:  'inicializando': no se puede realizar la conversión de 'CSNode<T>' a 'CSNode<T> *'
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(127,1): error C2440:         with
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(127,1): error C2440:         [
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(127,1): error C2440:             T=int
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(127,1): error C2440:         ]
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(127,24): message :  No hay disponible ningún operador de conversión definido por el usuario que pueda realizar esta conversión, o bien no se puede llamar al operador
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(130,22): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(142,20): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(198): message :  vea la referencia a la creación de instancias de plantilla de función "void SumMatrix<int,0>(CSparseMatrix<int,0> &,CSparseMatrix<int,0> &,CSparseMatrix<int,0> &)" que se está compilando
+C:\Users\NICOLE\Documents\AED\Examen Final 1\Examen Final 1.cpp(143,21): warning C4018:  '<': no coinciden signed/unsigned

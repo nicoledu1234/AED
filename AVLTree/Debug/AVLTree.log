@@ -1,0 +1,18 @@
+﻿  AVLTree.cpp
+C:\Users\NICOLE\Documents\AED\AVLTree\AVLTree.cpp(457,14): warning C4244:  'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\NICOLE\Documents\AED\AVLTree\AVLTree.cpp(453): message :  al compilar la función del miembro clase plantilla "void AVLTree<int,asc<int>>::ImpresionGrafica(BinaryNode<T> *)"
+C:\Users\NICOLE\Documents\AED\AVLTree\AVLTree.cpp(453): message :         with
+C:\Users\NICOLE\Documents\AED\AVLTree\AVLTree.cpp(453): message :         [
+C:\Users\NICOLE\Documents\AED\AVLTree\AVLTree.cpp(453): message :             T=int
+C:\Users\NICOLE\Documents\AED\AVLTree\AVLTree.cpp(453): message :         ]
+C:\Users\NICOLE\Documents\AED\AVLTree\AVLTree.cpp(692): message :  vea la referencia a la creación de instancias de plantilla de función "void AVLTree<int,asc<int>>::ImpresionGrafica(BinaryNode<T> *)" que se está compilando
+C:\Users\NICOLE\Documents\AED\AVLTree\AVLTree.cpp(692): message :         with
+C:\Users\NICOLE\Documents\AED\AVLTree\AVLTree.cpp(692): message :         [
+C:\Users\NICOLE\Documents\AED\AVLTree\AVLTree.cpp(692): message :             T=int
+C:\Users\NICOLE\Documents\AED\AVLTree\AVLTree.cpp(692): message :         ]
+C:\Users\NICOLE\Documents\AED\AVLTree\AVLTree.cpp(617): message :  vea la referencia a la creación de instancias de clase plantilla "AVLTree<int,asc<int>>" que se está compilando
+C:\Users\NICOLE\Documents\AED\AVLTree\AVLTree.cpp(470,39): warning C4244:  'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\NICOLE\Documents\AED\AVLTree\AVLTree.cpp(475,27): warning C4244:  'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\NICOLE\Documents\AED\AVLTree\AVLTree.cpp(479,39): warning C4244:  'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\NICOLE\Documents\AED\AVLTree\AVLTree.cpp(484,27): warning C4244:  'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  AVLTree.vcxproj -> C:\Users\NICOLE\Documents\AED\AVLTree\Debug\AVLTree.exe
